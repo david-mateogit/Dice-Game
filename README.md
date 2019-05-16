@@ -1,6 +1,6 @@
 # Dice-Game
 
-This is a coding practice to use eventlisteners and update the DOM.
+This is a JavaScript coding practice to use eventlisteners and update the DOM.
 
 GAME RULES:
 
