@@ -1,4 +1,5 @@
 # Dice-Game
+
 https://david-mateogit.github.io/Dice-Game/
 
 This is a JavaScript coding practice to use eventlisteners and update the DOM.
@@ -14,4 +15,6 @@ GAME RULES:
 Additional info.
 
 1. A player loses his ENTIRE Score when he rolls two 6 in a row. After that, it's the next player's turn.
-2. You can set your own winning score from the predefined score of 100. (Note: The game will reset) 
+2. You can set your own winning score from the predefined score of 100. (Note: The game will reset)
+
+![Dice Game](/preview/Dice-Game.png 'Dice Game')
